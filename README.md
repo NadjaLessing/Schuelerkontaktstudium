@@ -1,3 +1,4 @@
+# Hinweise für Schüler
 Die Notebooks (Dateiendung .ipynb) sollen als Hilfestellung zum Erstellen einfacher Graphen in Jupyter Notebook dienen.
 
 Plotten_fuer_schueler.ipynb enthält Anweisungen zum Plotten und dient als Vorlage für eigene Plots.
