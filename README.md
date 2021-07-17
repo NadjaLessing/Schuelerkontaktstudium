@@ -6,3 +6,6 @@ Dieses Notebook könnt ihr auch zukünftig jederzeit nutzen.
 Leere_vorlage.ipynb enthält Aufgaben und soll während dem SKS-Termin genutzt werden.
 
 Beide Notebooks können hier getestet werden:
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/NadjaLessing/Schuelerkontaktstudium/main
