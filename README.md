@@ -1,5 +1,6 @@
-# Schuelerkontaktstudium
-Die Notebooks sollen als Vorlage zum erstellen einfacher Graphen dienen.
-Sie können hier getestet werden:
+Die Notebooks (Dateiendung .ipynb) sollen als Hilfestellung zum Erstellen einfacher Graphen in Jupyter Notebook dienen.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NadjaLessing/Schuelerkontaktstudium/main)
+Plotten_fuer_schueler.ipynb enthält Anweisungen zum Plotten und dient als Vorlage für eigene Plots.
+Leere_vorlage.ipynb enthält Aufgaben und soll während dem SKS-Termin von den Schülern genutzt werden.
+
+Beide Notebooks können hier getestet werden:
